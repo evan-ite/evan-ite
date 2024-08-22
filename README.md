@@ -1,9 +1,6 @@
 # Hi there, I'm Elise👋
 
-## Technologies & Tools
-- Programming Languages: C, C++, Python, HTML, CSS
-- Frameworks: Flask
-- Tools: Git, VS Code, Docker
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,docker,bootstrap,apple,linux,ableton,ai)](https://skillicons.dev)
 
 ## Projects
 ### Webserver
