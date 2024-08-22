@@ -6,23 +6,20 @@
 - Tools: Git, VS Code, Docker
 
 ## 🚀 Projects
-### [webserv]
-- **Description:** [Brief Description of Project 1]
-- **Technologies:** [Technologies Used]
-- **Repository:** [Link to Repository]
+### [Webserver]
+- **Description:** An NGINX-like server built in C++98 to understand web server operations and HTTP protocol fundamentals.
+- **Technologies:** C++98, CGI, poll
+- **Repository:** [Webserv](https://github.com/evan-ite/webserv)
 
-### [cub3d]
+### [3D game]
 - **Description:** [Brief Description of Project 2]
 - **Technologies:** [Technologies Used]
 - **Repository:** [Link to Repository]
 
-### [Flask-songcreator]
+### [Flask website]
 - **Description:** [Brief Description of Project 3]
 - **Technologies:** [Technologies Used]
 - **Repository:** [Link to Repository]
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/elise-v-2639b7202/)
