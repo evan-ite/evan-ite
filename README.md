@@ -9,17 +9,17 @@
 ### Webserver
 - **Description:** An NGINX-like server built in C++98 to understand web server operations and HTTP protocol fundamentals.
 - **Technologies:** C++98, CGI, poll
-- **Repository:** [Webserv](https://github.com/evan-ite/webserv)
+- **Repository:** [Take a look at the code](https://github.com/evan-ite/webserv)
 
 ### 3D game
-- **Description:** [Brief Description of Project 2]
-- **Technologies:** [Technologies Used]
-- **Repository:** [Link to Repository]
+- **Description:**  Inspired by Wolfenstein 3D, cub3D is an introduction to ray-casting, creating a dynamic view inside a maze.
+- **Technologies:** C, Minilibx
+- **Repository:** [Take a look at the code](https://github.com/evan-ite/cub3d)
 
 ### Flask website
-- **Description:** [Brief Description of Project 3]
-- **Technologies:** [Technologies Used]
-- **Repository:** [Link to Repository]
+- **Description:** A Flask application for creating and saving songs using the OpenAI ChatGPT API. It generates chords and lyrics based on user inputs like key, genre, mood, and subject.
+- **Technologies:** Flask, Python, OpenAI API
+- **Repository:** [Take a look at the code](https://github.com/evan-ite/Flask-songcreator)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/elise-v-2639b7202/)
