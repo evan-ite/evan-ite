@@ -1,5 +1,7 @@
 # Hi there, I'm Elise👋
 
+I'm a software engineering student from the 42 network.
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,docker,bootstrap,apple,linux,ableton,ai)](https://skillicons.dev)
 
 ## Projects
