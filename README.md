@@ -25,5 +25,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/elise-v-2639b7202/))
+- [LinkedIn](https://www.linkedin.com/in/elise-v-2639b7202/)
 
