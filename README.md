@@ -2,7 +2,7 @@
 
 I'm a software engineering student from the 42 network, with a background in sustainability science.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,docker,bootstrap,apple,linux,ableton,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,django,docker,bootstrap,apple,linux,ableton,ai)](https://skillicons.dev)
 
 ## Projects
 ### Webserver
