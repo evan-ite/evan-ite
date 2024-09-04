@@ -4,11 +4,11 @@ I'm a software engineering student from the 42 network, with a background in sus
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,django,docker,bootstrap,apple,linux,ableton,ai)](https://skillicons.dev)
 
-## Projects
-
-### Docker microservices: in progress
+### Docker Microservices: in progress :nerd_face:
 - **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, and MariaDB services, interconnected via Docker networks on a Virtual Machine.
 - **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian
+
+## Projects
 
 ### Webserver
 - **Description:** An NGINX-like server built in C++98 to understand web server operations and HTTP protocol fundamentals.
