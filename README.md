@@ -5,8 +5,9 @@ I'm a software engineering student from the 42 network, with a background in sus
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,django,docker,bootstrap,figma,apple,linux,ableton,ai)](https://skillicons.dev)
 
 ### Docker Microservices: in progress :nerd_face:
-- **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, and MariaDB services, interconnected via Docker networks.
-- **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian
+- **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, MariaDB and Adminer services, interconnected via Docker networks.
+- **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian, Adminer
+- - **Repository:** [Take a look at the code](https://github.com/evan-ite/inception)
 
 ## Projects
 
