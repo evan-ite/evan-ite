@@ -19,7 +19,7 @@ I'm a software engineering student from the 42 network, with a background in sus
 - **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, MariaDB and Adminer services, interconnected via Docker networks.
 - **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian, Adminer
 - **Repository:** [Take a look at the code](https://github.com/evan-ite/inception)
-- 
+  
 ### 3D game
 - **Description:**  Inspired by Wolfenstein 3D, cub3D is an introduction to ray-casting, creating a dynamic view inside a maze.
 - **Technologies:** C, Minilibx, Raycasting
