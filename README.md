@@ -6,7 +6,7 @@ I'm a software engineering student from the 42 network, with a background in sus
 
 ### Full Stack Pong Game: in progress :nerd_face:
 - **Description:** A comprehensive gaming platform utilizing a backend framework, featuring multiplayer capabilities, live chat, AI opponents, and secure user management with 2FA and JWT, built with microservices architecture.
-- **Technologies:** Django, Bootstrap, PostgreSQL, User Management and Authentication, Remote Player Integration, Multiplayer Support, Live Chat Functionality, AI Opponent, User and Game Stats Dashboards, Two-Factor Authentication (2FA), JSON Web Tokens (JWT), Docker, API for Server-Side Pong
+- **Technologies:** Django, Bootstrap, PostgreSQL, Two-Factor Authentication (2FA), JSON Web Tokens (JWT), Docker
 
 ## Projects
 
