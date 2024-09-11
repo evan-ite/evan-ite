@@ -16,7 +16,7 @@ I'm a software engineering student from the 42 network, with a background in sus
 - **Repository:** [Take a look at the code](https://github.com/evan-ite/webserv)
 
 ### Docker Microservices
-- **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, MariaDB and Adminer services, interconnected via Docker networks.
+- **Description:** Develop a Docker-Compose infrastructure, including NGINX (with TLS), WordPress, MariaDB and Adminer services.
 - **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian, Adminer
 - **Repository:** [Take a look at the code](https://github.com/evan-ite/inception)
   
