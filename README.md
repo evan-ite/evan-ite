@@ -4,10 +4,9 @@ I'm a software engineering student from the 42 network, with a background in sus
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,django,docker,bootstrap,figma,apple,linux,ableton,ai)](https://skillicons.dev)
 
-### Docker Microservices: in progress :nerd_face:
-- **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, MariaDB and Adminer services, interconnected via Docker networks.
-- **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian, Adminer
-- - **Repository:** [Take a look at the code](https://github.com/evan-ite/inception)
+### Full Stack Pong Game: in progress :nerd_face:
+- **Description:** A comprehensive gaming platform utilizing a backend framework, featuring multiplayer capabilities, live chat, AI opponents, and secure user management with 2FA and JWT, built with microservices architecture.
+- **Technologies:** Django, Bootstrap, PostgreSQL, User Management and Authentication, Remote Player Integration, Multiplayer Support, Live Chat Functionality, AI Opponent, User and Game Stats Dashboards, Two-Factor Authentication (2FA), JSON Web Tokens (JWT), Docker, API for Server-Side Pong
 
 ## Projects
 
@@ -16,6 +15,11 @@ I'm a software engineering student from the 42 network, with a background in sus
 - **Technologies:** C++98, CGI, poll, OOP
 - **Repository:** [Take a look at the code](https://github.com/evan-ite/webserv)
 
+### Docker Microservices
+- **Description:** Develop a Docker-based infrastructure, including NGINX (with TLS), WordPress, MariaDB and Adminer services, interconnected via Docker networks.
+- **Technologies:** Docker, Docker Compose, NGINX, MariaDB, WordPress, Debian, Adminer
+- **Repository:** [Take a look at the code](https://github.com/evan-ite/inception)
+- 
 ### 3D game
 - **Description:**  Inspired by Wolfenstein 3D, cub3D is an introduction to ray-casting, creating a dynamic view inside a maze.
 - **Technologies:** C, Minilibx, Raycasting
