@@ -11,8 +11,8 @@ I'm a software engineering student from the 42 network, with a background in sus
 ## Projects
 
 ### Webserver
-- **Description:** An NGINX-like server built in C++98 to understand web server operations and HTTP protocol fundamentals.
-- **Technologies:** C++98, CGI, poll, OOP
+- **Description:** An NGINX-like server built in C++ to understand web server operations and HTTP protocol fundamentals.
+- **Technologies:** C++, CGI, poll, OOP
 - **Repository:** [Take a look at the code](https://github.com/evan-ite/webserv)
 
 ### Docker Microservices
