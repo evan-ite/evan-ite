@@ -6,7 +6,7 @@ I'm a software engineering student from the 42 network, with a background in sus
 
 ### Full Stack Pong Game: in progress :nerd_face:
 - **Description:** A comprehensive gaming platform built with Django, featuring multiplayer capabilities, live chat, AI opponents, user management and a single page application front end. The project is built with microservices.
-- **Technologies:** Django, Bootstrap, PostgreSQL, Two-Factor Authentication (2FA), JSON Web Tokens (JWT), Docker
+- **Technologies:** Django, Bootstrap, PostgreSQL, Javascript, Docker
 
 ## Projects
 
