@@ -5,7 +5,7 @@ I'm a software engineering student from the 42 network, with a background in sus
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,postgres,nginx,flask,django,docker,bootstrap,figma,apple,linux,ableton,ai)](https://skillicons.dev)
 
 ### Full Stack Pong Game: in progress :nerd_face:
-- **Description:** A comprehensive gaming platform built with Django, featuring multiplayer capabilities, live chat, AI opponents, user management and a single page application front end. The project is built with microservices.
+- **Description:** A website built with Django to create a back-end API and a single page application in javascipt for the front end. A pong game is hosted featuring multiplayer capabilities, live chat, AI opponents and user management. The project is built with microservices.
 - **Technologies:** Django, Bootstrap, PostgreSQL, Javascript, Docker
 
 ## Projects
