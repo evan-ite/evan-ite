@@ -9,6 +9,7 @@ A software engineer with a background in sustainability science.
 ### Full Stack Pong Game :nerd_face:
 - **Description:** A website built with Django for the back-end API and a single page application in javascipt as front end. A pong game is hosted featuring multiplayer capabilities, live chat, AI opponents and user management. The project architecture is microservices.
 - **Technologies:** Django, Bootstrap, PostgreSQL, Javascript, Docker
+- **Repository:** [Take a look at the code](https://github.com/jlstro/42-transcendence)
 
 ### Webserver
 - **Description:** An NGINX-like server built in C++ to understand web server operations and HTTP protocol fundamentals.
