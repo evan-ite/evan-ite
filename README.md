@@ -1,14 +1,14 @@
 # Hi there, I'm Elise👋
 
-I'm a software engineering student from the 42 network, with a background in sustainability science.
+A software engineer with a background in sustainability science.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,js,postgres,nginx,flask,django,docker,bootstrap,figma,apple,linux,ableton,ai)](https://skillicons.dev)
 
-### Full Stack Pong Game: in progress :nerd_face:
-- **Description:** A website built with Django to create a back-end API and a single page application in javascipt for the front end. A pong game is hosted featuring multiplayer capabilities, live chat, AI opponents and user management. The project is built with microservices.
-- **Technologies:** Django, Bootstrap, PostgreSQL, Javascript, Docker
-
 ## Projects
+
+### Full Stack Pong Game :nerd_face:
+- **Description:** A website built with Django for the back-end API and a single page application in javascipt as front end. A pong game is hosted featuring multiplayer capabilities, live chat, AI opponents and user management. The project architecture is microservices.
+- **Technologies:** Django, Bootstrap, PostgreSQL, Javascript, Docker
 
 ### Webserver
 - **Description:** An NGINX-like server built in C++ to understand web server operations and HTTP protocol fundamentals.
