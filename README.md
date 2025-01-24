@@ -13,7 +13,7 @@ A software engineer with a background in sustainability science.
 
 ### Webserver
 - **Description:** An NGINX-like server built in C++ to understand web server operations and HTTP protocol fundamentals.
-- **Technologies:** C++, CGI, poll, OOP
+- **Technologies:** C++, CGI, poll, OOP, HTTP
 - **Repository:** [Take a look at the code](https://github.com/evan-ite/webserv)
 
 ### Docker Microservices
