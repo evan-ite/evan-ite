@@ -2,7 +2,7 @@
 
 A software engineer with a background in sustainability science.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,bash,js,postgres,elasticsearch,nginx,flask,django,net,nuxt,docker,figma,apple,linux,ableton,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,bash,js,postgres,elasticsearch,nginx,flask,django,net,nuxt,docker,figma,apple,linux,ableton,ai)](https://skillicons.dev)
 
 ## Projects
 
