@@ -1,12 +1,24 @@
 # Hi there, I'm Elise👋
 
-A software engineer with a background in sustainability science.
+I'm a software engineer based in Amsterdam with a background in sustainability science and a solid low-level foundation from the 42 Network, where I completed a two-year curriculum in just over a year. I'm drawn to backend work and building systems I actually understand — not just systems that work. I care about code quality, think carefully before I act, and pick up new stacks quickly by focusing on fundamentals first.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,bash,js,postgres,elasticsearch,nginx,flask,django,net,nuxt,docker,figma,apple,linux,ableton,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,bash,net,docker,gcp,firebase,postgres,elasticsearch,apple,linux)](https://skillicons.dev)
 
 ## Projects
 
-### Full Stack Pong Game :nerd_face:
+### Rijksmuseum Research Portal *(professional — code private)*
+- **Description:** Replaced a 12-year-old legacy system with a modern internal website for researchers at the Rijksmuseum.
+- **Technologies:** .NET 8, Nuxt 3, Azure, Elasticsearch, IaC (Bicep)
+
+### School Dropout Prevention Platform *(professional — code private)*
+- **Description:** Full-stack platform for Gemeente Zwolle to help identify and support students at risk of dropping out ([paspoortvoorsucces.nl](https://paspoortvoorsucces.nl)).
+- **Technologies:** Node.js, React, PostgreSQL, Google Cloud, Firebase, Prisma, Sentry
+
+### Travel Agency CMS Migration *(professional — code private)*
+- **Description:** Migrated a travel agency's CMS from WordPress to Sanity, restructuring backend data flows for scalability.
+- **Technologies:** Node.js, Sanity, Google Cloud, Pulumi (IaC)
+
+### Full Stack Pong Game
 - **Description:** A website built with a Django back-end API and vanilla javascipt [SPA](https://en.wikipedia.org/wiki/Single-page_application) front end. The pong game has multiplayer, tournaments, live chat, AI opponents and user management. The project architecture is microservices.
 - **Technologies:** Django, Bootstrap, PostgreSQL, Javascript, Docker
 - **Repository:** [Take a look at the code](https://github.com/jlstro/42-transcendence)
