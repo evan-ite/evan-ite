@@ -1,8 +1,6 @@
 # Hi there, I'm Elise👋
 
-I'm a software engineer based in Amsterdam with a background in sustainability science and a solid low-level foundation from the 42 Network, where I completed a two-year curriculum in just over a year. I'm drawn to backend work and building systems I actually understand — not just systems that work. I care about code quality, think carefully before I act, and pick up new stacks quickly by focusing on fundamentals first.
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,bash,net,docker,gcp,firebase,postgres,elasticsearch,apple,linux)](https://skillicons.dev)
+I'm a software engineer based in Amsterdam with a background in sustainability science and a solid low-level foundation from the 42 Network, where I completed a two-year curriculum in just over a year. I'm drawn to backend work, I care about code quality, think carefully before I act, and pick up new stacks quickly by focusing on fundamentals first.
 
 ## Projects
 
